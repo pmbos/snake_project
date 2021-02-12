@@ -1,3 +1,6 @@
+Note: the base of this project was provided by the University of Twente as an exercise to practice AI development on the snake game.
+Personal implementations are limited to the AI used by the snake to find its way.
+
 Before starting, make sure you have the latest python version working (the game is tested on python 3.6.3 64bit).
 
   _______ _             _____
